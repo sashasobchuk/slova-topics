@@ -1,0 +1,3325 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "food",
+      "title": "Food & Cooking",
+      "items": [
+        {
+          "id": "food-1",
+          "text": "breakfast at home"
+        },
+        {
+          "id": "food-2",
+          "text": "ordering at a cafe"
+        },
+        {
+          "id": "food-3",
+          "text": "recipe for a favorite dish"
+        },
+        {
+          "id": "food-4",
+          "text": "grocery shopping at the supermarket"
+        },
+        {
+          "id": "food-5",
+          "text": "street food"
+        },
+        {
+          "id": "food-6",
+          "text": "coffee and tea"
+        },
+        {
+          "id": "food-7",
+          "text": "sweets and desserts"
+        },
+        {
+          "id": "food-8",
+          "text": "dinner with friends"
+        },
+        {
+          "id": "food-9",
+          "text": "cooking with kids"
+        },
+        {
+          "id": "food-10",
+          "text": "healthy eating"
+        },
+        {
+          "id": "food-11",
+          "text": "spicy food"
+        },
+        {
+          "id": "food-12",
+          "text": "breakfast at a hotel"
+        },
+        {
+          "id": "food-13",
+          "text": "food delivery to your home"
+        },
+        {
+          "id": "food-14",
+          "text": "picnic in nature"
+        },
+        {
+          "id": "food-15",
+          "text": "cuisine of another country"
+        },
+        {
+          "id": "food-16",
+          "text": "food that has gone bad"
+        },
+        {
+          "id": "food-17",
+          "text": "vegetarian food"
+        },
+        {
+          "id": "food-18",
+          "text": "festive table"
+        },
+        {
+          "id": "food-19",
+          "text": "snack at work"
+        },
+        {
+          "id": "food-20",
+          "text": "the bill at a restaurant"
+        },
+        {
+          "id": "food-21",
+          "text": "lunch in the school canteen"
+        },
+        {
+          "id": "food-22",
+          "text": "choosing wine for dinner"
+        },
+        {
+          "id": "food-23",
+          "text": "cooking show"
+        },
+        {
+          "id": "food-24",
+          "text": "baking bread at home"
+        },
+        {
+          "id": "food-25",
+          "text": "nut allergy"
+        },
+        {
+          "id": "food-26",
+          "text": "farmers market"
+        },
+        {
+          "id": "food-27",
+          "text": "weekend brunch"
+        },
+        {
+          "id": "food-28",
+          "text": "diet before summer"
+        },
+        {
+          "id": "food-29",
+          "text": "preserves for the winter"
+        },
+        {
+          "id": "food-30",
+          "text": "buffet"
+        },
+        {
+          "id": "food-31",
+          "text": "tipping the waiter"
+        },
+        {
+          "id": "food-32",
+          "text": "burnt dinner"
+        },
+        {
+          "id": "food-33",
+          "text": "coffee machine in the office"
+        },
+        {
+          "id": "food-34",
+          "text": "seafood"
+        },
+        {
+          "id": "food-35",
+          "text": "lunch on the go"
+        },
+        {
+          "id": "food-36",
+          "text": "cooking classes"
+        },
+        {
+          "id": "food-37",
+          "text": "grandma's recipe"
+        },
+        {
+          "id": "food-38",
+          "text": "sushi"
+        },
+        {
+          "id": "food-39",
+          "text": "an unusual dish you are afraid to try"
+        },
+        {
+          "id": "food-40",
+          "text": "dinner from whatever is in the fridge"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "items": [
+        {
+          "id": "travel-1",
+          "text": "booking a hotel"
+        },
+        {
+          "id": "travel-2",
+          "text": "check-in at the airport"
+        },
+        {
+          "id": "travel-3",
+          "text": "lost suitcase"
+        },
+        {
+          "id": "travel-4",
+          "text": "train trip"
+        },
+        {
+          "id": "travel-5",
+          "text": "walking around an unfamiliar city"
+        },
+        {
+          "id": "travel-6",
+          "text": "guided tour"
+        },
+        {
+          "id": "travel-7",
+          "text": "beach vacation"
+        },
+        {
+          "id": "travel-8",
+          "text": "trip to the mountains"
+        },
+        {
+          "id": "travel-9",
+          "text": "renting a car"
+        },
+        {
+          "id": "travel-10",
+          "text": "visa and documents"
+        },
+        {
+          "id": "travel-11",
+          "text": "souvenirs"
+        },
+        {
+          "id": "travel-12",
+          "text": "talking to locals"
+        },
+        {
+          "id": "travel-13",
+          "text": "overnight flight"
+        },
+        {
+          "id": "travel-14",
+          "text": "camping trip with a tent"
+        },
+        {
+          "id": "travel-15",
+          "text": "sea voyage"
+        },
+        {
+          "id": "travel-16",
+          "text": "hitchhiking"
+        },
+        {
+          "id": "travel-17",
+          "text": "travel insurance"
+        },
+        {
+          "id": "travel-18",
+          "text": "travel photos"
+        },
+        {
+          "id": "travel-19",
+          "text": "flight delay"
+        },
+        {
+          "id": "travel-20",
+          "text": "coming back home"
+        },
+        {
+          "id": "travel-21",
+          "text": "packing a suitcase"
+        },
+        {
+          "id": "travel-22",
+          "text": "currency exchange"
+        },
+        {
+          "id": "travel-23",
+          "text": "hostel with roommates"
+        },
+        {
+          "id": "travel-24",
+          "text": "lost passport"
+        },
+        {
+          "id": "travel-25",
+          "text": "cruise"
+        },
+        {
+          "id": "travel-26",
+          "text": "traveling alone"
+        },
+        {
+          "id": "travel-27",
+          "text": "map and navigator"
+        },
+        {
+          "id": "travel-28",
+          "text": "local food on a trip"
+        },
+        {
+          "id": "travel-29",
+          "text": "last-minute ticket"
+        },
+        {
+          "id": "travel-30",
+          "text": "museum in the capital"
+        },
+        {
+          "id": "travel-31",
+          "text": "vacation at a lake"
+        },
+        {
+          "id": "travel-32",
+          "text": "weekend getaway"
+        },
+        {
+          "id": "travel-33",
+          "text": "overweight luggage"
+        },
+        {
+          "id": "travel-34",
+          "text": "customs control"
+        },
+        {
+          "id": "travel-35",
+          "text": "bus tour"
+        },
+        {
+          "id": "travel-36",
+          "text": "travel blog"
+        },
+        {
+          "id": "travel-37",
+          "text": "language barrier"
+        },
+        {
+          "id": "travel-38",
+          "text": "rain on vacation"
+        },
+        {
+          "id": "travel-39",
+          "text": "car camping"
+        },
+        {
+          "id": "travel-40",
+          "text": "list of countries to visit someday"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Work & Career",
+      "items": [
+        {
+          "id": "work-1",
+          "text": "job interview"
+        },
+        {
+          "id": "work-2",
+          "text": "first day at a new job"
+        },
+        {
+          "id": "work-3",
+          "text": "team meeting"
+        },
+        {
+          "id": "work-4",
+          "text": "looming deadline"
+        },
+        {
+          "id": "work-5",
+          "text": "conversation with the boss"
+        },
+        {
+          "id": "work-6",
+          "text": "salary raise"
+        },
+        {
+          "id": "work-7",
+          "text": "remote work"
+        },
+        {
+          "id": "work-8",
+          "text": "a coworker who is always late"
+        },
+        {
+          "id": "work-9",
+          "text": "vacation and a replacement"
+        },
+        {
+          "id": "work-10",
+          "text": "work email"
+        },
+        {
+          "id": "work-11",
+          "text": "project presentation"
+        },
+        {
+          "id": "work-12",
+          "text": "getting fired"
+        },
+        {
+          "id": "work-13",
+          "text": "night shift"
+        },
+        {
+          "id": "work-14",
+          "text": "freelance work"
+        },
+        {
+          "id": "work-15",
+          "text": "own business"
+        },
+        {
+          "id": "work-16",
+          "text": "internship"
+        },
+        {
+          "id": "work-17",
+          "text": "conflict in the team"
+        },
+        {
+          "id": "work-18",
+          "text": "corporate party"
+        },
+        {
+          "id": "work-19",
+          "text": "coffee break at the office"
+        },
+        {
+          "id": "work-20",
+          "text": "plans for the next quarter"
+        },
+        {
+          "id": "work-21",
+          "text": "work schedule"
+        },
+        {
+          "id": "work-22",
+          "text": "feedback from a client"
+        },
+        {
+          "id": "work-23",
+          "text": "training a new colleague"
+        },
+        {
+          "id": "work-24",
+          "text": "checking a report"
+        },
+        {
+          "id": "work-25",
+          "text": "business trip"
+        },
+        {
+          "id": "work-26",
+          "text": "sick leave"
+        },
+        {
+          "id": "work-27",
+          "text": "changing careers"
+        },
+        {
+          "id": "work-28",
+          "text": "resume and cover letter"
+        },
+        {
+          "id": "work-29",
+          "text": "performance review"
+        },
+        {
+          "id": "work-30",
+          "text": "work laptop broke down"
+        },
+        {
+          "id": "work-31",
+          "text": "lunch with colleagues"
+        },
+        {
+          "id": "work-32",
+          "text": "contract negotiations"
+        },
+        {
+          "id": "work-33",
+          "text": "overtime work"
+        },
+        {
+          "id": "work-34",
+          "text": "new boss"
+        },
+        {
+          "id": "work-35",
+          "text": "team building"
+        },
+        {
+          "id": "work-36",
+          "text": "client complaint"
+        },
+        {
+          "id": "work-37",
+          "text": "open office and noise"
+        },
+        {
+          "id": "work-38",
+          "text": "first paycheck"
+        },
+        {
+          "id": "work-39",
+          "text": "colleague retiring"
+        },
+        {
+          "id": "work-40",
+          "text": "dream job"
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "title": "Study",
+      "items": [
+        {
+          "id": "study-1",
+          "text": "preparing for an exam"
+        },
+        {
+          "id": "study-2",
+          "text": "homework"
+        },
+        {
+          "id": "study-3",
+          "text": "foreign language lesson"
+        },
+        {
+          "id": "study-4",
+          "text": "university lecture"
+        },
+        {
+          "id": "study-5",
+          "text": "online course"
+        },
+        {
+          "id": "study-6",
+          "text": "a grade you did not like"
+        },
+        {
+          "id": "study-7",
+          "text": "library"
+        },
+        {
+          "id": "study-8",
+          "text": "group project"
+        },
+        {
+          "id": "study-9",
+          "text": "school schedule"
+        },
+        {
+          "id": "study-10",
+          "text": "favorite subject"
+        },
+        {
+          "id": "study-11",
+          "text": "strict teacher"
+        },
+        {
+          "id": "study-12",
+          "text": "first grade"
+        },
+        {
+          "id": "study-13",
+          "text": "university admission"
+        },
+        {
+          "id": "study-14",
+          "text": "thesis and defense"
+        },
+        {
+          "id": "study-15",
+          "text": "cheat sheet during a test"
+        },
+        {
+          "id": "study-16",
+          "text": "tutor"
+        },
+        {
+          "id": "study-17",
+          "text": "new words and flashcards"
+        },
+        {
+          "id": "study-18",
+          "text": "summer break"
+        },
+        {
+          "id": "study-19",
+          "text": "student life"
+        },
+        {
+          "id": "study-20",
+          "text": "pronunciation mistakes"
+        },
+        {
+          "id": "study-21",
+          "text": "being late for class"
+        },
+        {
+          "id": "study-22",
+          "text": "dormitory"
+        },
+        {
+          "id": "study-23",
+          "text": "scholarship"
+        },
+        {
+          "id": "study-24",
+          "text": "term paper"
+        },
+        {
+          "id": "study-25",
+          "text": "science club"
+        },
+        {
+          "id": "study-26",
+          "text": "studying abroad on an exchange"
+        },
+        {
+          "id": "study-27",
+          "text": "speaking in front of the class"
+        },
+        {
+          "id": "study-28",
+          "text": "parent-teacher meeting"
+        },
+        {
+          "id": "study-29",
+          "text": "graduation"
+        },
+        {
+          "id": "study-30",
+          "text": "math olympiad"
+        },
+        {
+          "id": "study-31",
+          "text": "lecture notes"
+        },
+        {
+          "id": "study-32",
+          "text": "studying with headphones on"
+        },
+        {
+          "id": "study-33",
+          "text": "driver's license exam"
+        },
+        {
+          "id": "study-34",
+          "text": "end of the semester"
+        },
+        {
+          "id": "study-35",
+          "text": "school field trip"
+        },
+        {
+          "id": "study-36",
+          "text": "a teacher you remember"
+        },
+        {
+          "id": "study-37",
+          "text": "self-study"
+        },
+        {
+          "id": "study-38",
+          "text": "checking an essay"
+        },
+        {
+          "id": "study-39",
+          "text": "school uniform and backpack"
+        },
+        {
+          "id": "study-40",
+          "text": "online lesson that froze"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Home & Household",
+      "items": [
+        {
+          "id": "home-1",
+          "text": "weekend cleaning"
+        },
+        {
+          "id": "home-2",
+          "text": "apartment renovation"
+        },
+        {
+          "id": "home-3",
+          "text": "renting a home"
+        },
+        {
+          "id": "home-4",
+          "text": "noisy neighbors"
+        },
+        {
+          "id": "home-5",
+          "text": "laundry and drying"
+        },
+        {
+          "id": "home-6",
+          "text": "broken faucet"
+        },
+        {
+          "id": "home-7",
+          "text": "moving to a new apartment"
+        },
+        {
+          "id": "home-8",
+          "text": "plants on the balcony"
+        },
+        {
+          "id": "home-9",
+          "text": "tidying the wardrobe"
+        },
+        {
+          "id": "home-10",
+          "text": "burnt-out light bulb"
+        },
+        {
+          "id": "home-11",
+          "text": "trash and sorting"
+        },
+        {
+          "id": "home-12",
+          "text": "utility bills"
+        },
+        {
+          "id": "home-13",
+          "text": "keys that cannot be found"
+        },
+        {
+          "id": "home-14",
+          "text": "cooking dinner at home"
+        },
+        {
+          "id": "home-15",
+          "text": "home library"
+        },
+        {
+          "id": "home-16",
+          "text": "bed and sleep"
+        },
+        {
+          "id": "home-17",
+          "text": "cat on the sofa"
+        },
+        {
+          "id": "home-18",
+          "text": "evening in front of the TV"
+        },
+        {
+          "id": "home-19",
+          "text": "guests who showed up unexpectedly"
+        },
+        {
+          "id": "home-20",
+          "text": "smell from the kitchen"
+        },
+        {
+          "id": "home-21",
+          "text": "deep cleaning"
+        },
+        {
+          "id": "home-22",
+          "text": "painting the walls"
+        },
+        {
+          "id": "home-23",
+          "text": "new furniture"
+        },
+        {
+          "id": "home-24",
+          "text": "washing machine broke down"
+        },
+        {
+          "id": "home-25",
+          "text": "empty fridge"
+        },
+        {
+          "id": "home-26",
+          "text": "heating in winter"
+        },
+        {
+          "id": "home-27",
+          "text": "air conditioner in summer"
+        },
+        {
+          "id": "home-28",
+          "text": "leaking roof"
+        },
+        {
+          "id": "home-29",
+          "text": "washing windows"
+        },
+        {
+          "id": "home-30",
+          "text": "handyman at home"
+        },
+        {
+          "id": "home-31",
+          "text": "setting up a workspace"
+        },
+        {
+          "id": "home-32",
+          "text": "children's room"
+        },
+        {
+          "id": "home-33",
+          "text": "dream interior"
+        },
+        {
+          "id": "home-34",
+          "text": "dust under the bed"
+        },
+        {
+          "id": "home-35",
+          "text": "dishes after dinner"
+        },
+        {
+          "id": "home-36",
+          "text": "the downstairs neighbor you flooded"
+        },
+        {
+          "id": "home-37",
+          "text": "broken intercom"
+        },
+        {
+          "id": "home-38",
+          "text": "bathroom renovation"
+        },
+        {
+          "id": "home-39",
+          "text": "landlord"
+        },
+        {
+          "id": "home-40",
+          "text": "rearranging furniture"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family & Kids",
+      "items": [
+        {
+          "id": "family-1",
+          "text": "morning with the kids before school"
+        },
+        {
+          "id": "family-2",
+          "text": "child's birthday"
+        },
+        {
+          "id": "family-3",
+          "text": "walk with a toddler in the park"
+        },
+        {
+          "id": "family-4",
+          "text": "grandparents visiting"
+        },
+        {
+          "id": "family-5",
+          "text": "quarrel between brother and sister"
+        },
+        {
+          "id": "family-6",
+          "text": "child's first words"
+        },
+        {
+          "id": "family-7",
+          "text": "wedding in the family"
+        },
+        {
+          "id": "family-8",
+          "text": "Sunday family dinner"
+        },
+        {
+          "id": "family-9",
+          "text": "children's household chores"
+        },
+        {
+          "id": "family-10",
+          "text": "sick child at night"
+        },
+        {
+          "id": "family-11",
+          "text": "grown-up child moving out"
+        },
+        {
+          "id": "family-12",
+          "text": "family photos"
+        },
+        {
+          "id": "family-13",
+          "text": "family budget"
+        },
+        {
+          "id": "family-14",
+          "text": "gift for parents"
+        },
+        {
+          "id": "family-15",
+          "text": "screen time rules"
+        },
+        {
+          "id": "family-16",
+          "text": "vacation with the whole family"
+        },
+        {
+          "id": "family-17",
+          "text": "kindergarten"
+        },
+        {
+          "id": "family-18",
+          "text": "favorite bedtime story"
+        },
+        {
+          "id": "family-19",
+          "text": "family traditions"
+        },
+        {
+          "id": "family-20",
+          "text": "phone call with relatives"
+        },
+        {
+          "id": "family-21",
+          "text": "pregnancy and waiting"
+        },
+        {
+          "id": "family-22",
+          "text": "birth of a child"
+        },
+        {
+          "id": "family-23",
+          "text": "first step"
+        },
+        {
+          "id": "family-24",
+          "text": "first day of school"
+        },
+        {
+          "id": "family-25",
+          "text": "teenager who does not listen"
+        },
+        {
+          "id": "family-26",
+          "text": "child's grades in the school diary"
+        },
+        {
+          "id": "family-27",
+          "text": "grandma's pies"
+        },
+        {
+          "id": "family-28",
+          "text": "inheritance and an old house"
+        },
+        {
+          "id": "family-29",
+          "text": "divorce"
+        },
+        {
+          "id": "family-30",
+          "text": "mom's new family"
+        },
+        {
+          "id": "family-31",
+          "text": "cousins"
+        },
+        {
+          "id": "family-32",
+          "text": "a pet for the child"
+        },
+        {
+          "id": "family-33",
+          "text": "pocket money"
+        },
+        {
+          "id": "family-34",
+          "text": "summer in grandma's village"
+        },
+        {
+          "id": "family-35",
+          "text": "vacation at the dacha"
+        },
+        {
+          "id": "family-36",
+          "text": "child's first crush"
+        },
+        {
+          "id": "family-37",
+          "text": "caring for elderly parents"
+        },
+        {
+          "id": "family-38",
+          "text": "family history"
+        },
+        {
+          "id": "family-39",
+          "text": "parenting without yelling"
+        },
+        {
+          "id": "family-40",
+          "text": "playing games together with the kids"
+        }
+      ]
+    },
+    {
+      "id": "friends",
+      "title": "Friends & Socializing",
+      "items": [
+        {
+          "id": "friends-1",
+          "text": "meeting after a long break"
+        },
+        {
+          "id": "friends-2",
+          "text": "invitation to a party"
+        },
+        {
+          "id": "friends-3",
+          "text": "shared weekend plans"
+        },
+        {
+          "id": "friends-4",
+          "text": "a friend who does not reply"
+        },
+        {
+          "id": "friends-5",
+          "text": "advice in a difficult situation"
+        },
+        {
+          "id": "friends-6",
+          "text": "jokes in a group"
+        },
+        {
+          "id": "friends-7",
+          "text": "lending money to a friend"
+        },
+        {
+          "id": "friends-8",
+          "text": "meeting new people"
+        },
+        {
+          "id": "friends-9",
+          "text": "quarrel and making up"
+        },
+        {
+          "id": "friends-10",
+          "text": "long-distance friendship"
+        },
+        {
+          "id": "friends-11",
+          "text": "trip with friends"
+        },
+        {
+          "id": "friends-12",
+          "text": "birthday gift"
+        },
+        {
+          "id": "friends-13",
+          "text": "board games in the evening"
+        },
+        {
+          "id": "friends-14",
+          "text": "gossip and rumors"
+        },
+        {
+          "id": "friends-15",
+          "text": "a neighbor who became a friend"
+        },
+        {
+          "id": "friends-16",
+          "text": "talking until late at night"
+        },
+        {
+          "id": "friends-17",
+          "text": "asking for help"
+        },
+        {
+          "id": "friends-18",
+          "text": "celebrating good news"
+        },
+        {
+          "id": "friends-19",
+          "text": "a friend who is always late"
+        },
+        {
+          "id": "friends-20",
+          "text": "first date"
+        },
+        {
+          "id": "friends-21",
+          "text": "childhood friendship"
+        },
+        {
+          "id": "friends-22",
+          "text": "new friend at work"
+        },
+        {
+          "id": "friends-23",
+          "text": "a secret you were trusted with"
+        },
+        {
+          "id": "friends-24",
+          "text": "a forgotten phone call"
+        },
+        {
+          "id": "friends-25",
+          "text": "karaoke night"
+        },
+        {
+          "id": "friends-26",
+          "text": "going to a bar"
+        },
+        {
+          "id": "friends-27",
+          "text": "support in hard times"
+        },
+        {
+          "id": "friends-28",
+          "text": "a friend who moved away"
+        },
+        {
+          "id": "friends-29",
+          "text": "shared hobby"
+        },
+        {
+          "id": "friends-30",
+          "text": "jealousy in friendship"
+        },
+        {
+          "id": "friends-31",
+          "text": "best friend's wedding"
+        },
+        {
+          "id": "friends-32",
+          "text": "classmates reunion"
+        },
+        {
+          "id": "friends-33",
+          "text": "argument about football"
+        },
+        {
+          "id": "friends-34",
+          "text": "farewell at the train station"
+        },
+        {
+          "id": "friends-35",
+          "text": "letter from an old friend"
+        },
+        {
+          "id": "friends-36",
+          "text": "evening with friends without phones"
+        },
+        {
+          "id": "friends-37",
+          "text": "compliments"
+        },
+        {
+          "id": "friends-38",
+          "text": "awkward silence"
+        },
+        {
+          "id": "friends-39",
+          "text": "sharing an apartment with a friend"
+        },
+        {
+          "id": "friends-40",
+          "text": "apologizing by text message"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Health & Doctor",
+      "items": [
+        {
+          "id": "health-1",
+          "text": "making a doctor's appointment"
+        },
+        {
+          "id": "health-2",
+          "text": "bad cold"
+        },
+        {
+          "id": "health-3",
+          "text": "headache"
+        },
+        {
+          "id": "health-4",
+          "text": "pharmacy and medicine"
+        },
+        {
+          "id": "health-5",
+          "text": "annual checkup"
+        },
+        {
+          "id": "health-6",
+          "text": "dentist"
+        },
+        {
+          "id": "health-7",
+          "text": "sports injury"
+        },
+        {
+          "id": "health-8",
+          "text": "tests and results"
+        },
+        {
+          "id": "health-9",
+          "text": "spring allergy"
+        },
+        {
+          "id": "health-10",
+          "text": "insomnia"
+        },
+        {
+          "id": "health-11",
+          "text": "calling an ambulance"
+        },
+        {
+          "id": "health-12",
+          "text": "surgery and recovery"
+        },
+        {
+          "id": "health-13",
+          "text": "quitting a bad habit"
+        },
+        {
+          "id": "health-14",
+          "text": "vitamins"
+        },
+        {
+          "id": "health-15",
+          "text": "child's fever"
+        },
+        {
+          "id": "health-16",
+          "text": "eyes and eyesight"
+        },
+        {
+          "id": "health-17",
+          "text": "back pain after sedentary work"
+        },
+        {
+          "id": "health-18",
+          "text": "stress and burnout"
+        },
+        {
+          "id": "health-19",
+          "text": "massage and physiotherapy"
+        },
+        {
+          "id": "health-20",
+          "text": "vaccination"
+        },
+        {
+          "id": "health-21",
+          "text": "blood pressure and heart"
+        },
+        {
+          "id": "health-22",
+          "text": "a cough that will not go away"
+        },
+        {
+          "id": "health-23",
+          "text": "hospital and ward"
+        },
+        {
+          "id": "health-24",
+          "text": "health insurance"
+        },
+        {
+          "id": "health-25",
+          "text": "food poisoning"
+        },
+        {
+          "id": "health-26",
+          "text": "broken arm"
+        },
+        {
+          "id": "health-27",
+          "text": "dietitian and meal plan"
+        },
+        {
+          "id": "health-28",
+          "text": "psychotherapist"
+        },
+        {
+          "id": "health-29",
+          "text": "first aid"
+        },
+        {
+          "id": "health-30",
+          "text": "skin and sun"
+        },
+        {
+          "id": "health-31",
+          "text": "doctor's prescription"
+        },
+        {
+          "id": "health-32",
+          "text": "queue at the clinic"
+        },
+        {
+          "id": "health-33",
+          "text": "tonsillitis and sore throat"
+        },
+        {
+          "id": "health-34",
+          "text": "water and dehydration"
+        },
+        {
+          "id": "health-35",
+          "text": "stomach ache"
+        },
+        {
+          "id": "health-36",
+          "text": "treatment at a sanatorium"
+        },
+        {
+          "id": "health-37",
+          "text": "morning exercise"
+        },
+        {
+          "id": "health-38",
+          "text": "second opinion from another doctor"
+        },
+        {
+          "id": "health-39",
+          "text": "meditation for calm"
+        },
+        {
+          "id": "health-40",
+          "text": "online doctor"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "title": "Sports & Fitness",
+      "items": [
+        {
+          "id": "sport-1",
+          "text": "morning run"
+        },
+        {
+          "id": "sport-2",
+          "text": "first workout at the gym"
+        },
+        {
+          "id": "sport-3",
+          "text": "football match"
+        },
+        {
+          "id": "sport-4",
+          "text": "swimming in the pool"
+        },
+        {
+          "id": "sport-5",
+          "text": "bike ride"
+        },
+        {
+          "id": "sport-6",
+          "text": "yoga at home"
+        },
+        {
+          "id": "sport-7",
+          "text": "favorite team"
+        },
+        {
+          "id": "sport-8",
+          "text": "marathon"
+        },
+        {
+          "id": "sport-9",
+          "text": "trainer and workout plan"
+        },
+        {
+          "id": "sport-10",
+          "text": "muscle soreness after the gym"
+        },
+        {
+          "id": "sport-11",
+          "text": "winter sports"
+        },
+        {
+          "id": "sport-12",
+          "text": "table tennis"
+        },
+        {
+          "id": "sport-13",
+          "text": "school competition"
+        },
+        {
+          "id": "sport-14",
+          "text": "mountain hike as training"
+        },
+        {
+          "id": "sport-15",
+          "text": "basketball with friends"
+        },
+        {
+          "id": "sport-16",
+          "text": "dancing"
+        },
+        {
+          "id": "sport-17",
+          "text": "Olympics on TV"
+        },
+        {
+          "id": "sport-18",
+          "text": "steps and fitness tracker"
+        },
+        {
+          "id": "sport-19",
+          "text": "boxing and martial arts"
+        },
+        {
+          "id": "sport-20",
+          "text": "a missed workout"
+        },
+        {
+          "id": "sport-21",
+          "text": "tennis on the court"
+        },
+        {
+          "id": "sport-22",
+          "text": "rock climbing"
+        },
+        {
+          "id": "sport-23",
+          "text": "surfing"
+        },
+        {
+          "id": "sport-24",
+          "text": "first time on ice skates"
+        },
+        {
+          "id": "sport-25",
+          "text": "beach volleyball"
+        },
+        {
+          "id": "sport-26",
+          "text": "stretching after a workout"
+        },
+        {
+          "id": "sport-27",
+          "text": "protein and sports nutrition"
+        },
+        {
+          "id": "sport-28",
+          "text": "gym membership"
+        },
+        {
+          "id": "sport-29",
+          "text": "World Cup"
+        },
+        {
+          "id": "sport-30",
+          "text": "cheering at the stadium"
+        },
+        {
+          "id": "sport-31",
+          "text": "knee injury"
+        },
+        {
+          "id": "sport-32",
+          "text": "golf"
+        },
+        {
+          "id": "sport-33",
+          "text": "sportswear and sneakers"
+        },
+        {
+          "id": "sport-34",
+          "text": "team spirit"
+        },
+        {
+          "id": "sport-35",
+          "text": "losing the final"
+        },
+        {
+          "id": "sport-36",
+          "text": "personal record"
+        },
+        {
+          "id": "sport-37",
+          "text": "chess"
+        },
+        {
+          "id": "sport-38",
+          "text": "treadmill"
+        },
+        {
+          "id": "sport-39",
+          "text": "working out with friends"
+        },
+        {
+          "id": "sport-40",
+          "text": "esports"
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather & Seasons",
+      "items": [
+        {
+          "id": "weather-1",
+          "text": "sudden rain without an umbrella"
+        },
+        {
+          "id": "weather-2",
+          "text": "first snow"
+        },
+        {
+          "id": "weather-3",
+          "text": "heat in the city"
+        },
+        {
+          "id": "weather-4",
+          "text": "strong wind"
+        },
+        {
+          "id": "weather-5",
+          "text": "morning fog"
+        },
+        {
+          "id": "weather-6",
+          "text": "thunderstorm at night"
+        },
+        {
+          "id": "weather-7",
+          "text": "weather forecast for the week"
+        },
+        {
+          "id": "weather-8",
+          "text": "autumn leaves"
+        },
+        {
+          "id": "weather-9",
+          "text": "spring blossoms"
+        },
+        {
+          "id": "weather-10",
+          "text": "black ice on the road"
+        },
+        {
+          "id": "weather-11",
+          "text": "summer evening outside"
+        },
+        {
+          "id": "weather-12",
+          "text": "frost and warm clothes"
+        },
+        {
+          "id": "weather-13",
+          "text": "clouds and sun"
+        },
+        {
+          "id": "weather-14",
+          "text": "flood after heavy rains"
+        },
+        {
+          "id": "weather-15",
+          "text": "best season of the year"
+        },
+        {
+          "id": "weather-16",
+          "text": "stuffy air before a thunderstorm"
+        },
+        {
+          "id": "weather-17",
+          "text": "winter holidays"
+        },
+        {
+          "id": "weather-18",
+          "text": "drought"
+        },
+        {
+          "id": "weather-19",
+          "text": "rainbow after the rain"
+        },
+        {
+          "id": "weather-20",
+          "text": "clothes not suited for the weather"
+        },
+        {
+          "id": "weather-21",
+          "text": "hail in summer"
+        },
+        {
+          "id": "weather-22",
+          "text": "snowstorm"
+        },
+        {
+          "id": "weather-23",
+          "text": "cool morning"
+        },
+        {
+          "id": "weather-24",
+          "text": "Indian summer"
+        },
+        {
+          "id": "weather-25",
+          "text": "sunstroke"
+        },
+        {
+          "id": "weather-26",
+          "text": "puddles after a downpour"
+        },
+        {
+          "id": "weather-27",
+          "text": "weather and well-being"
+        },
+        {
+          "id": "weather-28",
+          "text": "storm at sea"
+        },
+        {
+          "id": "weather-29",
+          "text": "warm winter day"
+        },
+        {
+          "id": "weather-30",
+          "text": "first days of spring"
+        },
+        {
+          "id": "weather-31",
+          "text": "hot night without sleep"
+        },
+        {
+          "id": "weather-32",
+          "text": "snowman in the yard"
+        },
+        {
+          "id": "weather-33",
+          "text": "wet clothes after the rain"
+        },
+        {
+          "id": "weather-34",
+          "text": "weather for a wedding"
+        },
+        {
+          "id": "weather-35",
+          "text": "the forecasters were wrong"
+        },
+        {
+          "id": "weather-36",
+          "text": "frost patterns on the window"
+        },
+        {
+          "id": "weather-37",
+          "text": "windy beach"
+        },
+        {
+          "id": "weather-38",
+          "text": "rainy season"
+        },
+        {
+          "id": "weather-39",
+          "text": "temperature outside"
+        },
+        {
+          "id": "weather-40",
+          "text": "thaw"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping & Money",
+      "items": [
+        {
+          "id": "shopping-1",
+          "text": "sale discounts"
+        },
+        {
+          "id": "shopping-2",
+          "text": "returning an item"
+        },
+        {
+          "id": "shopping-3",
+          "text": "trying on clothes"
+        },
+        {
+          "id": "shopping-4",
+          "text": "online order"
+        },
+        {
+          "id": "shopping-5",
+          "text": "paying by card"
+        },
+        {
+          "id": "shopping-6",
+          "text": "queue at the checkout"
+        },
+        {
+          "id": "shopping-7",
+          "text": "expensive purchase and doubts"
+        },
+        {
+          "id": "shopping-8",
+          "text": "monthly budget"
+        },
+        {
+          "id": "shopping-9",
+          "text": "loan and payments"
+        },
+        {
+          "id": "shopping-10",
+          "text": "a gift that is hard to choose"
+        },
+        {
+          "id": "shopping-11",
+          "text": "shoes that pinch"
+        },
+        {
+          "id": "shopping-12",
+          "text": "groceries for the week"
+        },
+        {
+          "id": "shopping-13",
+          "text": "haggling at the market"
+        },
+        {
+          "id": "shopping-14",
+          "text": "forgotten wallet at home"
+        },
+        {
+          "id": "shopping-15",
+          "text": "delivery is delayed"
+        },
+        {
+          "id": "shopping-16",
+          "text": "saving money for a dream"
+        },
+        {
+          "id": "shopping-17",
+          "text": "repairing instead of buying new"
+        },
+        {
+          "id": "shopping-18",
+          "text": "buying a phone"
+        },
+        {
+          "id": "shopping-19",
+          "text": "receipt and warranty"
+        },
+        {
+          "id": "shopping-20",
+          "text": "exchange rate"
+        },
+        {
+          "id": "shopping-21",
+          "text": "cashback"
+        },
+        {
+          "id": "shopping-22",
+          "text": "gift certificate"
+        },
+        {
+          "id": "shopping-23",
+          "text": "Black Friday"
+        },
+        {
+          "id": "shopping-24",
+          "text": "second-hand store"
+        },
+        {
+          "id": "shopping-25",
+          "text": "shopping with a girlfriend"
+        },
+        {
+          "id": "shopping-26",
+          "text": "impulse purchase"
+        },
+        {
+          "id": "shopping-27",
+          "text": "comparing prices"
+        },
+        {
+          "id": "shopping-28",
+          "text": "a fake instead of the original"
+        },
+        {
+          "id": "shopping-29",
+          "text": "reserving an item"
+        },
+        {
+          "id": "shopping-30",
+          "text": "a subscription you forgot to cancel"
+        },
+        {
+          "id": "shopping-31",
+          "text": "selling old things"
+        },
+        {
+          "id": "shopping-32",
+          "text": "self-checkout"
+        },
+        {
+          "id": "shopping-33",
+          "text": "buying furniture"
+        },
+        {
+          "id": "shopping-34",
+          "text": "bookstore"
+        },
+        {
+          "id": "shopping-35",
+          "text": "the size did not fit"
+        },
+        {
+          "id": "shopping-36",
+          "text": "shop assistant"
+        },
+        {
+          "id": "shopping-37",
+          "text": "reviews before buying"
+        },
+        {
+          "id": "shopping-38",
+          "text": "ATM did not give out money"
+        },
+        {
+          "id": "shopping-39",
+          "text": "saving on small things"
+        },
+        {
+          "id": "shopping-40",
+          "text": "shopping list"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": "Transport",
+      "items": [
+        {
+          "id": "transport-1",
+          "text": "missing the bus"
+        },
+        {
+          "id": "transport-2",
+          "text": "subway during rush hour"
+        },
+        {
+          "id": "transport-3",
+          "text": "taxi home"
+        },
+        {
+          "id": "transport-4",
+          "text": "driving in a traffic jam"
+        },
+        {
+          "id": "transport-5",
+          "text": "first driving lessons"
+        },
+        {
+          "id": "transport-6",
+          "text": "parking downtown"
+        },
+        {
+          "id": "transport-7",
+          "text": "bike lane"
+        },
+        {
+          "id": "transport-8",
+          "text": "train ticket"
+        },
+        {
+          "id": "transport-9",
+          "text": "gas and gas station"
+        },
+        {
+          "id": "transport-10",
+          "text": "speeding ticket"
+        },
+        {
+          "id": "transport-11",
+          "text": "car accident"
+        },
+        {
+          "id": "transport-12",
+          "text": "car breakdown"
+        },
+        {
+          "id": "transport-13",
+          "text": "walking instead of using transport"
+        },
+        {
+          "id": "transport-14",
+          "text": "night bus"
+        },
+        {
+          "id": "transport-15",
+          "text": "flight with a layover"
+        },
+        {
+          "id": "transport-16",
+          "text": "scooters on the streets"
+        },
+        {
+          "id": "transport-17",
+          "text": "schedule and delays"
+        },
+        {
+          "id": "transport-18",
+          "text": "car wash"
+        },
+        {
+          "id": "transport-19",
+          "text": "trip on a minibus"
+        },
+        {
+          "id": "transport-20",
+          "text": "commute to work every morning"
+        },
+        {
+          "id": "transport-21",
+          "text": "monthly pass"
+        },
+        {
+          "id": "transport-22",
+          "text": "ticket inspector on the tram"
+        },
+        {
+          "id": "transport-23",
+          "text": "lost items on the bus"
+        },
+        {
+          "id": "transport-24",
+          "text": "traffic jams after rain"
+        },
+        {
+          "id": "transport-25",
+          "text": "vehicle inspection"
+        },
+        {
+          "id": "transport-26",
+          "text": "tire shop"
+        },
+        {
+          "id": "transport-27",
+          "text": "new driver's license"
+        },
+        {
+          "id": "transport-28",
+          "text": "novice driver"
+        },
+        {
+          "id": "transport-29",
+          "text": "a passenger who talks loudly"
+        },
+        {
+          "id": "transport-30",
+          "text": "seat for an elderly person"
+        },
+        {
+          "id": "transport-31",
+          "text": "ferry crossing"
+        },
+        {
+          "id": "transport-32",
+          "text": "electric car"
+        },
+        {
+          "id": "transport-33",
+          "text": "bike rental"
+        },
+        {
+          "id": "transport-34",
+          "text": "carpooling with fellow travelers"
+        },
+        {
+          "id": "transport-35",
+          "text": "the navigator led the wrong way"
+        },
+        {
+          "id": "transport-36",
+          "text": "train station at night"
+        },
+        {
+          "id": "transport-37",
+          "text": "ticket without a seat"
+        },
+        {
+          "id": "transport-38",
+          "text": "road repairs"
+        },
+        {
+          "id": "transport-39",
+          "text": "parking lot near the house"
+        },
+        {
+          "id": "transport-40",
+          "text": "cable car"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech & Gadgets",
+      "items": [
+        {
+          "id": "tech-1",
+          "text": "phone that ran out of battery"
+        },
+        {
+          "id": "tech-2",
+          "text": "new laptop"
+        },
+        {
+          "id": "tech-3",
+          "text": "an update that broke everything"
+        },
+        {
+          "id": "tech-4",
+          "text": "forgotten password"
+        },
+        {
+          "id": "tech-5",
+          "text": "slow internet"
+        },
+        {
+          "id": "tech-6",
+          "text": "headphones and music"
+        },
+        {
+          "id": "tech-7",
+          "text": "smartwatch"
+        },
+        {
+          "id": "tech-8",
+          "text": "taking photos with a phone"
+        },
+        {
+          "id": "tech-9",
+          "text": "backing up files"
+        },
+        {
+          "id": "tech-10",
+          "text": "artificial intelligence at work"
+        },
+        {
+          "id": "tech-11",
+          "text": "broken keyboard"
+        },
+        {
+          "id": "tech-12",
+          "text": "choosing between two models"
+        },
+        {
+          "id": "tech-13",
+          "text": "screen repair"
+        },
+        {
+          "id": "tech-14",
+          "text": "smart home"
+        },
+        {
+          "id": "tech-15",
+          "text": "video call that dropped"
+        },
+        {
+          "id": "tech-16",
+          "text": "playing on a console"
+        },
+        {
+          "id": "tech-17",
+          "text": "a charger that is never there"
+        },
+        {
+          "id": "tech-18",
+          "text": "cloud services"
+        },
+        {
+          "id": "tech-19",
+          "text": "viruses and security"
+        },
+        {
+          "id": "tech-20",
+          "text": "old electronics to throw away"
+        },
+        {
+          "id": "tech-21",
+          "text": "first smartphone"
+        },
+        {
+          "id": "tech-22",
+          "text": "setting up Wi-Fi"
+        },
+        {
+          "id": "tech-23",
+          "text": "printer that does not print"
+        },
+        {
+          "id": "tech-24",
+          "text": "app for learning"
+        },
+        {
+          "id": "tech-25",
+          "text": "online banking"
+        },
+        {
+          "id": "tech-26",
+          "text": "voice assistant"
+        },
+        {
+          "id": "tech-27",
+          "text": "drone"
+        },
+        {
+          "id": "tech-28",
+          "text": "virtual reality"
+        },
+        {
+          "id": "tech-29",
+          "text": "computer repair"
+        },
+        {
+          "id": "tech-30",
+          "text": "messages from scammers"
+        },
+        {
+          "id": "tech-31",
+          "text": "phone storage is full"
+        },
+        {
+          "id": "tech-32",
+          "text": "e-book"
+        },
+        {
+          "id": "tech-33",
+          "text": "lost headphones"
+        },
+        {
+          "id": "tech-34",
+          "text": "tech support over the phone"
+        },
+        {
+          "id": "tech-35",
+          "text": "new version of an app"
+        },
+        {
+          "id": "tech-36",
+          "text": "programming for beginners"
+        },
+        {
+          "id": "tech-37",
+          "text": "grandma learning to use a tablet"
+        },
+        {
+          "id": "tech-38",
+          "text": "working with spreadsheets"
+        },
+        {
+          "id": "tech-39",
+          "text": "navigation without internet"
+        },
+        {
+          "id": "tech-40",
+          "text": "photos that disappeared"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "Movies, Music & Books",
+      "items": [
+        {
+          "id": "culture-1",
+          "text": "movie night"
+        },
+        {
+          "id": "culture-2",
+          "text": "going to the cinema"
+        },
+        {
+          "id": "culture-3",
+          "text": "favorite TV series"
+        },
+        {
+          "id": "culture-4",
+          "text": "concert of a favorite band"
+        },
+        {
+          "id": "culture-5",
+          "text": "a book you cannot put down"
+        },
+        {
+          "id": "culture-6",
+          "text": "music in headphones on the way"
+        },
+        {
+          "id": "culture-7",
+          "text": "theater"
+        },
+        {
+          "id": "culture-8",
+          "text": "playing a musical instrument"
+        },
+        {
+          "id": "culture-9",
+          "text": "museum exhibition"
+        },
+        {
+          "id": "culture-10",
+          "text": "podcast instead of radio"
+        },
+        {
+          "id": "culture-11",
+          "text": "a movie that was disappointing"
+        },
+        {
+          "id": "culture-12",
+          "text": "book-to-film adaptation"
+        },
+        {
+          "id": "culture-13",
+          "text": "spoilers from a friend"
+        },
+        {
+          "id": "culture-14",
+          "text": "favorite actor"
+        },
+        {
+          "id": "culture-15",
+          "text": "singing in the shower"
+        },
+        {
+          "id": "culture-16",
+          "text": "audiobook before bed"
+        },
+        {
+          "id": "culture-17",
+          "text": "open-air festival"
+        },
+        {
+          "id": "culture-18",
+          "text": "verses and poetry"
+        },
+        {
+          "id": "culture-19",
+          "text": "fan community"
+        },
+        {
+          "id": "culture-20",
+          "text": "a plot that is hard to follow"
+        },
+        {
+          "id": "culture-21",
+          "text": "book club"
+        },
+        {
+          "id": "culture-22",
+          "text": "movie review"
+        },
+        {
+          "id": "culture-23",
+          "text": "cartoon with the kids"
+        },
+        {
+          "id": "culture-24",
+          "text": "opera"
+        },
+        {
+          "id": "culture-25",
+          "text": "stand-up comedy"
+        },
+        {
+          "id": "culture-26",
+          "text": "concert tickets that sold out"
+        },
+        {
+          "id": "culture-27",
+          "text": "favorite childhood song"
+        },
+        {
+          "id": "culture-28",
+          "text": "vinyl records"
+        },
+        {
+          "id": "culture-29",
+          "text": "comics"
+        },
+        {
+          "id": "culture-30",
+          "text": "documentary"
+        },
+        {
+          "id": "culture-31",
+          "text": "secondhand bookstore"
+        },
+        {
+          "id": "culture-32",
+          "text": "writer's autograph"
+        },
+        {
+          "id": "culture-33",
+          "text": "classical music"
+        },
+        {
+          "id": "culture-34",
+          "text": "horror movie"
+        },
+        {
+          "id": "culture-35",
+          "text": "subtitles or dubbing"
+        },
+        {
+          "id": "culture-36",
+          "text": "street art"
+        },
+        {
+          "id": "culture-37",
+          "text": "photo exhibition"
+        },
+        {
+          "id": "culture-38",
+          "text": "your own story on paper"
+        },
+        {
+          "id": "culture-39",
+          "text": "film awards"
+        },
+        {
+          "id": "culture-40",
+          "text": "ballet"
+        }
+      ]
+    },
+    {
+      "id": "internet",
+      "title": "Internet & Social Media",
+      "items": [
+        {
+          "id": "internet-1",
+          "text": "photo on social media"
+        },
+        {
+          "id": "internet-2",
+          "text": "comments under a post"
+        },
+        {
+          "id": "internet-3",
+          "text": "a video that went viral"
+        },
+        {
+          "id": "internet-4",
+          "text": "endless scrolling before bed"
+        },
+        {
+          "id": "internet-5",
+          "text": "a blogger you watch every day"
+        },
+        {
+          "id": "internet-6",
+          "text": "spam and ads"
+        },
+        {
+          "id": "internet-7",
+          "text": "group chat"
+        },
+        {
+          "id": "internet-8",
+          "text": "a meme everyone forwarded"
+        },
+        {
+          "id": "internet-9",
+          "text": "online dating"
+        },
+        {
+          "id": "internet-10",
+          "text": "fake news"
+        },
+        {
+          "id": "internet-11",
+          "text": "live stream"
+        },
+        {
+          "id": "internet-12",
+          "text": "unfollowing everyone"
+        },
+        {
+          "id": "internet-13",
+          "text": "work chat on the weekend"
+        },
+        {
+          "id": "internet-14",
+          "text": "voice message"
+        },
+        {
+          "id": "internet-15",
+          "text": "emoji instead of words"
+        },
+        {
+          "id": "internet-16",
+          "text": "video conference with the camera on"
+        },
+        {
+          "id": "internet-17",
+          "text": "a hacked account"
+        },
+        {
+          "id": "internet-18",
+          "text": "time off from the phone"
+        },
+        {
+          "id": "internet-19",
+          "text": "social media challenge"
+        },
+        {
+          "id": "internet-20",
+          "text": "searching for information online"
+        },
+        {
+          "id": "internet-21",
+          "text": "followers and likes"
+        },
+        {
+          "id": "internet-22",
+          "text": "data privacy"
+        },
+        {
+          "id": "internet-23",
+          "text": "online encyclopedia"
+        },
+        {
+          "id": "internet-24",
+          "text": "forum of like-minded people"
+        },
+        {
+          "id": "internet-25",
+          "text": "stories of the day"
+        },
+        {
+          "id": "internet-26",
+          "text": "influencer and advertising"
+        },
+        {
+          "id": "internet-27",
+          "text": "trolls in the comments"
+        },
+        {
+          "id": "internet-28",
+          "text": "misunderstanding in a chat"
+        },
+        {
+          "id": "internet-29",
+          "text": "your own channel"
+        },
+        {
+          "id": "internet-30",
+          "text": "videos with cats"
+        },
+        {
+          "id": "internet-31",
+          "text": "smartphone addiction"
+        },
+        {
+          "id": "internet-32",
+          "text": "two-factor authentication"
+        },
+        {
+          "id": "internet-33",
+          "text": "online petition"
+        },
+        {
+          "id": "internet-34",
+          "text": "nostalgia for the old internet"
+        },
+        {
+          "id": "internet-35",
+          "text": "recipe from a video"
+        },
+        {
+          "id": "internet-36",
+          "text": "reposting without checking"
+        },
+        {
+          "id": "internet-37",
+          "text": "news in the feed"
+        },
+        {
+          "id": "internet-38",
+          "text": "distracting notifications"
+        },
+        {
+          "id": "internet-39",
+          "text": "anonymity online"
+        },
+        {
+          "id": "internet-40",
+          "text": "photo taken without permission"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "Animals & Nature",
+      "items": [
+        {
+          "id": "nature-1",
+          "text": "walking the dog"
+        },
+        {
+          "id": "nature-2",
+          "text": "a cat that woke you up at night"
+        },
+        {
+          "id": "nature-3",
+          "text": "birds outside the window"
+        },
+        {
+          "id": "nature-4",
+          "text": "going into the forest for mushrooms"
+        },
+        {
+          "id": "nature-5",
+          "text": "fishing on the river"
+        },
+        {
+          "id": "nature-6",
+          "text": "flowers in the garden"
+        },
+        {
+          "id": "nature-7",
+          "text": "zoo with the kids"
+        },
+        {
+          "id": "nature-8",
+          "text": "taking care of an aquarium"
+        },
+        {
+          "id": "nature-9",
+          "text": "a dog that ran away"
+        },
+        {
+          "id": "nature-10",
+          "text": "bees and honey"
+        },
+        {
+          "id": "nature-11",
+          "text": "vegetable garden and harvest"
+        },
+        {
+          "id": "nature-12",
+          "text": "a wild animal near the house"
+        },
+        {
+          "id": "nature-13",
+          "text": "cleaning up the beach"
+        },
+        {
+          "id": "nature-14",
+          "text": "a tree you planted yourself"
+        },
+        {
+          "id": "nature-15",
+          "text": "horse and horseback riding"
+        },
+        {
+          "id": "nature-16",
+          "text": "mosquitoes in the evening"
+        },
+        {
+          "id": "nature-17",
+          "text": "animal shelter"
+        },
+        {
+          "id": "nature-18",
+          "text": "climate change"
+        },
+        {
+          "id": "nature-19",
+          "text": "mountain lake"
+        },
+        {
+          "id": "nature-20",
+          "text": "sunrise in nature"
+        },
+        {
+          "id": "nature-21",
+          "text": "hamster in a cage"
+        },
+        {
+          "id": "nature-22",
+          "text": "a parrot that talks"
+        },
+        {
+          "id": "nature-23",
+          "text": "squirrels in the park"
+        },
+        {
+          "id": "nature-24",
+          "text": "veterinarian"
+        },
+        {
+          "id": "nature-25",
+          "text": "puppy at home"
+        },
+        {
+          "id": "nature-26",
+          "text": "butterflies in a meadow"
+        },
+        {
+          "id": "nature-27",
+          "text": "waterfall"
+        },
+        {
+          "id": "nature-28",
+          "text": "night sky and stars"
+        },
+        {
+          "id": "nature-29",
+          "text": "seashore"
+        },
+        {
+          "id": "nature-30",
+          "text": "safari"
+        },
+        {
+          "id": "nature-31",
+          "text": "turtle"
+        },
+        {
+          "id": "nature-32",
+          "text": "picking berries"
+        },
+        {
+          "id": "nature-33",
+          "text": "national park"
+        },
+        {
+          "id": "nature-34",
+          "text": "tracks in the snow"
+        },
+        {
+          "id": "nature-35",
+          "text": "bird feeder"
+        },
+        {
+          "id": "nature-36",
+          "text": "forest after the rain"
+        },
+        {
+          "id": "nature-37",
+          "text": "cactus on the windowsill"
+        },
+        {
+          "id": "nature-38",
+          "text": "cow in the village"
+        },
+        {
+          "id": "nature-39",
+          "text": "plastic and ecology"
+        },
+        {
+          "id": "nature-40",
+          "text": "ticks after a walk"
+        }
+      ]
+    },
+    {
+      "id": "holidays",
+      "title": "Holidays & Traditions",
+      "items": [
+        {
+          "id": "holidays-1",
+          "text": "New Year's Eve"
+        },
+        {
+          "id": "holidays-2",
+          "text": "presents under the Christmas tree"
+        },
+        {
+          "id": "holidays-3",
+          "text": "birthday at home"
+        },
+        {
+          "id": "holidays-4",
+          "text": "friends' wedding"
+        },
+        {
+          "id": "holidays-5",
+          "text": "national holiday"
+        },
+        {
+          "id": "holidays-6",
+          "text": "Christmas dinner"
+        },
+        {
+          "id": "holidays-7",
+          "text": "festive decorations"
+        },
+        {
+          "id": "holidays-8",
+          "text": "fireworks"
+        },
+        {
+          "id": "holidays-9",
+          "text": "greeting card with wishes"
+        },
+        {
+          "id": "holidays-10",
+          "text": "a day off in the middle of the week"
+        },
+        {
+          "id": "holidays-11",
+          "text": "traditional holiday dish"
+        },
+        {
+          "id": "holidays-12",
+          "text": "surprise party"
+        },
+        {
+          "id": "holidays-13",
+          "text": "Sunday family rituals"
+        },
+        {
+          "id": "holidays-14",
+          "text": "fair in the city center"
+        },
+        {
+          "id": "holidays-15",
+          "text": "carnival costume"
+        },
+        {
+          "id": "holidays-16",
+          "text": "a toast at the table"
+        },
+        {
+          "id": "holidays-17",
+          "text": "a forgotten birthday"
+        },
+        {
+          "id": "holidays-18",
+          "text": "religious holiday"
+        },
+        {
+          "id": "holidays-19",
+          "text": "trip to celebrate at the parents' home"
+        },
+        {
+          "id": "holidays-20",
+          "text": "last day of vacation"
+        },
+        {
+          "id": "holidays-21",
+          "text": "Easter and painted eggs"
+        },
+        {
+          "id": "holidays-22",
+          "text": "Valentine's Day"
+        },
+        {
+          "id": "holidays-23",
+          "text": "Halloween"
+        },
+        {
+          "id": "holidays-24",
+          "text": "Mother's Day"
+        },
+        {
+          "id": "holidays-25",
+          "text": "grandmother's anniversary"
+        },
+        {
+          "id": "holidays-26",
+          "text": "wedding anniversary"
+        },
+        {
+          "id": "holidays-27",
+          "text": "handmade gift"
+        },
+        {
+          "id": "holidays-28",
+          "text": "wrapping gifts"
+        },
+        {
+          "id": "holidays-29",
+          "text": "New Year movies"
+        },
+        {
+          "id": "holidays-30",
+          "text": "holiday shopping"
+        },
+        {
+          "id": "holidays-31",
+          "text": "making a wish at midnight"
+        },
+        {
+          "id": "holidays-32",
+          "text": "carols"
+        },
+        {
+          "id": "holidays-33",
+          "text": "greetings over video call"
+        },
+        {
+          "id": "holidays-34",
+          "text": "cleaning up after the party"
+        },
+        {
+          "id": "holidays-35",
+          "text": "holiday cake"
+        },
+        {
+          "id": "holidays-36",
+          "text": "guests from another city"
+        },
+        {
+          "id": "holidays-37",
+          "text": "first day of spring"
+        },
+        {
+          "id": "holidays-38",
+          "text": "harvest festival"
+        },
+        {
+          "id": "holidays-39",
+          "text": "city day"
+        },
+        {
+          "id": "holidays-40",
+          "text": "celebrating alone"
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "title": "City & Services",
+      "items": [
+        {
+          "id": "city-1",
+          "text": "queue at the bank"
+        },
+        {
+          "id": "city-2",
+          "text": "post office and parcel"
+        },
+        {
+          "id": "city-3",
+          "text": "hair salon"
+        },
+        {
+          "id": "city-4",
+          "text": "shoe repair"
+        },
+        {
+          "id": "city-5",
+          "text": "documents at a government office"
+        },
+        {
+          "id": "city-6",
+          "text": "neighborhood library"
+        },
+        {
+          "id": "city-7",
+          "text": "market on the weekend"
+        },
+        {
+          "id": "city-8",
+          "text": "park in the city center"
+        },
+        {
+          "id": "city-9",
+          "text": "construction outside the window"
+        },
+        {
+          "id": "city-10",
+          "text": "police and a lost wallet"
+        },
+        {
+          "id": "city-11",
+          "text": "city noise at night"
+        },
+        {
+          "id": "city-12",
+          "text": "new cafe on the corner"
+        },
+        {
+          "id": "city-13",
+          "text": "asking a passerby for directions"
+        },
+        {
+          "id": "city-14",
+          "text": "dry cleaner"
+        },
+        {
+          "id": "city-15",
+          "text": "swimming pool and sports center"
+        },
+        {
+          "id": "city-16",
+          "text": "pharmacy open at night"
+        },
+        {
+          "id": "city-17",
+          "text": "street musicians"
+        },
+        {
+          "id": "city-18",
+          "text": "moving to another neighborhood"
+        },
+        {
+          "id": "city-19",
+          "text": "trash containers in the yard"
+        },
+        {
+          "id": "city-20",
+          "text": "rally in the square"
+        },
+        {
+          "id": "city-21",
+          "text": "notary"
+        },
+        {
+          "id": "city-22",
+          "text": "key-cutting shop"
+        },
+        {
+          "id": "city-23",
+          "text": "beauty salon"
+        },
+        {
+          "id": "city-24",
+          "text": "tailor and clothing alterations"
+        },
+        {
+          "id": "city-25",
+          "text": "registering your place of residence"
+        },
+        {
+          "id": "city-26",
+          "text": "playground"
+        },
+        {
+          "id": "city-27",
+          "text": "stuck in an elevator"
+        },
+        {
+          "id": "city-28",
+          "text": "sidewalk repairs"
+        },
+        {
+          "id": "city-29",
+          "text": "new shopping mall"
+        },
+        {
+          "id": "city-30",
+          "text": "snow removal on the streets"
+        },
+        {
+          "id": "city-31",
+          "text": "street lighting"
+        },
+        {
+          "id": "city-32",
+          "text": "fountain in the square"
+        },
+        {
+          "id": "city-33",
+          "text": "nightclub"
+        },
+        {
+          "id": "city-34",
+          "text": "flower kiosk"
+        },
+        {
+          "id": "city-35",
+          "text": "delivery service"
+        },
+        {
+          "id": "city-36",
+          "text": "smog over the city"
+        },
+        {
+          "id": "city-37",
+          "text": "pedestrian street"
+        },
+        {
+          "id": "city-38",
+          "text": "bike parking"
+        },
+        {
+          "id": "city-39",
+          "text": "insurance company"
+        },
+        {
+          "id": "city-40",
+          "text": "public restroom"
+        }
+      ]
+    },
+    {
+      "id": "emotions",
+      "title": "Emotions & Character",
+      "items": [
+        {
+          "id": "emotions-1",
+          "text": "joy at good news"
+        },
+        {
+          "id": "emotions-2",
+          "text": "nervousness before a speech"
+        },
+        {
+          "id": "emotions-3",
+          "text": "anger over a trifle"
+        },
+        {
+          "id": "emotions-4",
+          "text": "sadness on a rainy day"
+        },
+        {
+          "id": "emotions-5",
+          "text": "fear of flying"
+        },
+        {
+          "id": "emotions-6",
+          "text": "shame over your mistake"
+        },
+        {
+          "id": "emotions-7",
+          "text": "patience in a queue"
+        },
+        {
+          "id": "emotions-8",
+          "text": "jealousy"
+        },
+        {
+          "id": "emotions-9",
+          "text": "gratitude for help"
+        },
+        {
+          "id": "emotions-10",
+          "text": "disappointment in a person"
+        },
+        {
+          "id": "emotions-11",
+          "text": "peace when alone"
+        },
+        {
+          "id": "emotions-12",
+          "text": "resentment toward a friend"
+        },
+        {
+          "id": "emotions-13",
+          "text": "hope for the best"
+        },
+        {
+          "id": "emotions-14",
+          "text": "boredom on the weekend"
+        },
+        {
+          "id": "emotions-15",
+          "text": "pride in your child"
+        },
+        {
+          "id": "emotions-16",
+          "text": "doubts before a choice"
+        },
+        {
+          "id": "emotions-17",
+          "text": "tenderness toward a loved one"
+        },
+        {
+          "id": "emotions-18",
+          "text": "tiredness after a long week"
+        },
+        {
+          "id": "emotions-19",
+          "text": "surprise at the unexpected"
+        },
+        {
+          "id": "emotions-20",
+          "text": "laughing until you cry"
+        },
+        {
+          "id": "emotions-21",
+          "text": "loneliness in a big city"
+        },
+        {
+          "id": "emotions-22",
+          "text": "admiration for an idol"
+        },
+        {
+          "id": "emotions-23",
+          "text": "anxiety without a reason"
+        },
+        {
+          "id": "emotions-24",
+          "text": "happiness from little things"
+        },
+        {
+          "id": "emotions-25",
+          "text": "guilt toward mom"
+        },
+        {
+          "id": "emotions-26",
+          "text": "relief after an exam"
+        },
+        {
+          "id": "emotions-27",
+          "text": "impatience before a trip"
+        },
+        {
+          "id": "emotions-28",
+          "text": "sympathy for a stranger"
+        },
+        {
+          "id": "emotions-29",
+          "text": "stubbornness"
+        },
+        {
+          "id": "emotions-30",
+          "text": "laziness on Monday"
+        },
+        {
+          "id": "emotions-31",
+          "text": "nostalgia for childhood"
+        },
+        {
+          "id": "emotions-32",
+          "text": "panic before a deadline"
+        },
+        {
+          "id": "emotions-33",
+          "text": "embarrassment when meeting someone"
+        },
+        {
+          "id": "emotions-34",
+          "text": "generosity"
+        },
+        {
+          "id": "emotions-35",
+          "text": "annoyance at noise"
+        },
+        {
+          "id": "emotions-36",
+          "text": "motivation to start over"
+        },
+        {
+          "id": "emotions-37",
+          "text": "silence instead of an answer"
+        },
+        {
+          "id": "emotions-38",
+          "text": "falling in love"
+        },
+        {
+          "id": "emotions-39",
+          "text": "self-confidence"
+        },
+        {
+          "id": "emotions-40",
+          "text": "tears from a movie"
+        }
+      ]
+    },
+    {
+      "id": "plans",
+      "title": "Plans & Time",
+      "items": [
+        {
+          "id": "plans-1",
+          "text": "weekend plans"
+        },
+        {
+          "id": "plans-2",
+          "text": "to-do list for the day"
+        },
+        {
+          "id": "plans-3",
+          "text": "being late for a meeting"
+        },
+        {
+          "id": "plans-4",
+          "text": "an alarm you did not hear"
+        },
+        {
+          "id": "plans-5",
+          "text": "a postponed meeting"
+        },
+        {
+          "id": "plans-6",
+          "text": "a dream for next year"
+        },
+        {
+          "id": "plans-7",
+          "text": "waiting in line"
+        },
+        {
+          "id": "plans-8",
+          "text": "schedule for the week"
+        },
+        {
+          "id": "plans-9",
+          "text": "a promise that is hard to keep"
+        },
+        {
+          "id": "plans-10",
+          "text": "putting things off until later"
+        },
+        {
+          "id": "plans-11",
+          "text": "morning habits"
+        },
+        {
+          "id": "plans-12",
+          "text": "evening routine"
+        },
+        {
+          "id": "plans-13",
+          "text": "never having enough time"
+        },
+        {
+          "id": "plans-14",
+          "text": "reminder on the phone"
+        },
+        {
+          "id": "plans-15",
+          "text": "a break in the middle of the day"
+        },
+        {
+          "id": "plans-16",
+          "text": "plans that fell through"
+        },
+        {
+          "id": "plans-17",
+          "text": "New Year's resolutions"
+        },
+        {
+          "id": "plans-18",
+          "text": "long-term goal"
+        },
+        {
+          "id": "plans-19",
+          "text": "a vacation planned long ago"
+        },
+        {
+          "id": "plans-20",
+          "text": "the last day before a deadline"
+        },
+        {
+          "id": "plans-21",
+          "text": "diary and goals"
+        },
+        {
+          "id": "plans-22",
+          "text": "wall calendar"
+        },
+        {
+          "id": "plans-23",
+          "text": "priorities for the week"
+        },
+        {
+          "id": "plans-24",
+          "text": "waking up early"
+        },
+        {
+          "id": "plans-25",
+          "text": "a day off with no plans"
+        },
+        {
+          "id": "plans-26",
+          "text": "five-year plan"
+        },
+        {
+          "id": "plans-27",
+          "text": "spontaneous decision"
+        },
+        {
+          "id": "plans-28",
+          "text": "booking in advance"
+        },
+        {
+          "id": "plans-29",
+          "text": "exhaustion from too many tasks"
+        },
+        {
+          "id": "plans-30",
+          "text": "delegating tasks"
+        },
+        {
+          "id": "plans-31",
+          "text": "time management"
+        },
+        {
+          "id": "plans-32",
+          "text": "end of the month"
+        },
+        {
+          "id": "plans-33",
+          "text": "summer plans"
+        },
+        {
+          "id": "plans-34",
+          "text": "habits that eat up your time"
+        },
+        {
+          "id": "plans-35",
+          "text": "waiting for a parcel"
+        },
+        {
+          "id": "plans-36",
+          "text": "punctuality"
+        },
+        {
+          "id": "plans-37",
+          "text": "planning a celebration"
+        },
+        {
+          "id": "plans-38",
+          "text": "birthdays in the calendar"
+        },
+        {
+          "id": "plans-39",
+          "text": "changing plans because of the weather"
+        },
+        {
+          "id": "plans-40",
+          "text": "an evening to sum things up"
+        }
+      ]
+    }
+  ]
+}
